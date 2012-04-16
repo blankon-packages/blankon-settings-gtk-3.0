@@ -5,10 +5,10 @@ Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
 Build-Depends: debhelper (>= 7), cdbs,
 Standards-Version: 3.8.3
 Homepage: http://dev.blankonlinux.or.id/
-	
+
 Package: blankon-settings-gtk-3.0
 Architecture: any
 Depends: krawu-theme,
-         komodo-icon-theme
+	 komodo-icon-theme
 Description: blankon settings gtk-3.0
  blankon settings gtk-3.0
