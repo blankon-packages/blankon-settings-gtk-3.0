@@ -1,3 +1,10 @@
+blankon-settings-gtk-3.0 (0.3) rote; urgency=low
+
+  * Fix font for lightdm login
+    - Change font size.
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sat, 21 Apr 2012 20:44:41 +0700
+
 blankon-settings-gtk-3.0 (0.2) rote; urgency=low
 
   * fix fonts size 
