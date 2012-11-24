@@ -1,3 +1,10 @@
+blankon-settings-gtk-3.0 (0.4.1) suroboyo; urgency=low
+
+  * Initial release suroboyo versi
+    - added semanggi-theme to suroboyo versi
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 24 Nov 2012 17:36:00 +0700
+
 blankon-settings-gtk-3.0 (0.4) rote; urgency=low
 
   * Change: Komodo-Coklat to Komodo-Biru
