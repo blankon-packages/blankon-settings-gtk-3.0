@@ -1,3 +1,9 @@
+blankon-settings-gtk-3.0 (0.5.3) suroboyo; urgency=low
+
+  * added depends manokwari-theme.
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Tue, 16 Apr 2013 14:57:25 +0700
+
 blankon-settings-gtk-3.0 (0.5.2) suroboyo; urgency=low
 
   * edit setting.ini :
