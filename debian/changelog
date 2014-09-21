@@ -1,3 +1,9 @@
+blankon-settings-gtk-3.0 (0.5.5) tambora; urgency=low
+
+  * Drop depends semanggi-theme
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sun, 21 Sep 2014 22:14:01 +0700
+
 blankon-settings-gtk-3.0 (0.5.4) tambora; urgency=medium
 
   * Upload to tambora 
