@@ -1,3 +1,10 @@
+blankon-settings-gtk-3.0 (0.5.6) tambora; urgency=low
+
+  * settings.ini: change gtk-icon-theme to tebu-icon-theme
+  * control: change depends to tebu-icon-theme
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 26 Mar 2015 10:21:10 +0700
+
 blankon-settings-gtk-3.0 (0.5.5) tambora; urgency=low
 
   * Drop depends semanggi-theme

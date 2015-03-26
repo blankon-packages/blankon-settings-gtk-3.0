@@ -8,6 +8,6 @@ Homepage: http://dev.blankonlinux.or.id/
 
 Package: blankon-settings-gtk-3.0
 Architecture: any
-Depends:  komodo-icon-theme, manokwari-theme
+Depends:  tebu-icon-theme, manokwari-theme
 Description: blankon settings gtk-3.0
  blankon settings gtk-3.0
