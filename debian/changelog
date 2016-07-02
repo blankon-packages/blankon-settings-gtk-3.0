@@ -1,3 +1,9 @@
+blankon-settings-gtk-3.0 (0.5.7) tambora; urgency=medium
+
+  * Change theme, icon and cursor 
+
+ -- dotovr <dotovr@preko>  Sun, 03 Jul 2016 02:36:18 +0700
+
 blankon-settings-gtk-3.0 (0.5.6) tambora; urgency=low
 
   * settings.ini: change gtk-icon-theme to tebu-icon-theme
