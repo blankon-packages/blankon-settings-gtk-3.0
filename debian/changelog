@@ -1,3 +1,10 @@
+blankon-settings-gtk-3.0 (0.5.8) tambora; urgency=medium
+
+  * change/remove depends manokwari-theme > bromo-theme
+  * change/remove depends tebu > tebu-flat
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 16 Jul 2016 20:53:44 +0700
+
 blankon-settings-gtk-3.0 (0.5.7) tambora; urgency=medium
 
   * Change theme, icon and cursor 
